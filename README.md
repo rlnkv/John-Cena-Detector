@@ -22,3 +22,7 @@ Oleksii Ralnikov.
 
 
 PS: It's just a fun project I made while learning basics of Machine Learning. Half of it was vibe coded, but I truly understand what line do what.
+So it:
+- Trains a ResNet18 model to distinguish John Cena images.  
+- Includes an interactive Gradio app to upload an image and check if Cena is present.  
+- Built and trained in Kaggle.
